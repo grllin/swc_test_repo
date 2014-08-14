@@ -1,1 +1,3 @@
 Well, hello there.  This is a notepad for today.
+
+1:24pm: I'm still sitting at this chair.  I'm adding a modification that I will then stage and commit into GIT.  Notice that there is no line return and this can go on forever and ever and ever and ever..........
