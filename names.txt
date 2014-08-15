@@ -1,3 +1,4 @@
+New first line again?  Maybe this is like a tree growing taller?  Maybe?
 let's add something to the top, shall we?
 
 Grant, woo! Changing line one.  No conflicts here.
